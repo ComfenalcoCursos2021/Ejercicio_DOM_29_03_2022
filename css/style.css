@@ -1,0 +1,7 @@
+
+:root{
+    --colorDelMenu: #1d8b35;
+}
+body{
+    background: var(--colorDelMenu);
+}
